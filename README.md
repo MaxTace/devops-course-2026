@@ -6,4 +6,3 @@
 - Git / GitHub
 - Python
 - Docker (скоро)
-
